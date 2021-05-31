@@ -1,0 +1,15 @@
+com/bridgelabz/CentralAajTak.java
+ com.bridgelabz.CentralAajTak
+com/bridgelabz/Observers.java
+ com.bridgelabz.Observers
+com/bridgelabz/News.java
+ com.bridgelabz.News
+ com.bridgelabz.News$NewsType
+com/bridgelabz/MumbaiAajTak.java
+ com.bridgelabz.MumbaiAajTak
+com/bridgelabz/Main.java
+ com.bridgelabz.Main
+com/bridgelabz/AssamAajTak.java
+ com.bridgelabz.AssamAajTak
+com/bridgelabz/DelhiAajTak.java
+ com.bridgelabz.DelhiAajTak
